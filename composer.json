@@ -1,0 +1,11 @@
+{
+    "name": "ejemplo/proyecto",
+    "description": "Aplicacion react",
+    "authors": [
+        {
+            "name": "kevin-mm-dev",
+            "email": "kevin.mm.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
